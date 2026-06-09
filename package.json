@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "numpy": "^0.0.1",
+    "os": "^0.1.2",
+    "seaborn": "^0.0.1-security"
+  }
+}
